@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dockerode": "^4.0.4",
+    "express": "^4.21.2",
+    "node-pty": "^1.0.0",
+    "ws": "^8.18.1"
+  }
 }
